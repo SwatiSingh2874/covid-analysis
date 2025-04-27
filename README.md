@@ -24,8 +24,7 @@ This project focuses on analyzing COVID-19 datasets to uncover trends, insights,
 - Deaths vs Recovery comparison
 
 ## 📋 Dataset
-*(Mention where you got the dataset from, e.g., Kaggle, WHO, Johns Hopkins)*  
-Example: [COVID-19 Dataset from Kaggle](https://www.kaggle.com/datasets)
+(https://www.kaggle.com/datasets)
 
 ## 🛠️ Libraries Used
 - Pandas
@@ -34,7 +33,7 @@ Example: [COVID-19 Dataset from Kaggle](https://www.kaggle.com/datasets)
 - Seaborn
 
 ## 📬 Contact
-For any queries, reach out at [your-email@example.com].
+For any queries, reach out at Saraswati2874@gmail.com
 
 ---
 *Made by Swati Singh* 
